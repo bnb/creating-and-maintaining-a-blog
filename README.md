@@ -1,2 +1,2 @@
-# creating-and-maintaining-a-blog
-A course for the MidYork system / Little Falls MidYork branch on creating and maintaining a blog for younger adults.
+# Creating and Maintaining a Blog
+#### A course for the MidYork NYS Library System / Little Falls MidYork branch on creating and maintaining a blog for younger adults.
