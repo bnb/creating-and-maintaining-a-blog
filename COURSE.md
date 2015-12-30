@@ -45,7 +45,7 @@ On the right-hand side of the black bar, there is an icon of a pencil with a plu
 ```
 I've just started this blog, and aim to start writing consistently on it. Keep an eye out for future posts here and on my social media accounts!
 ```
-
+On the left-hand side of your screen there is a big blue **Publish** button. Click that, and your post is live! Click **View Post** in the green notification at the top of the page to see your post.
 
 <!-- Post 3: How -->
 ## Writing a Post
