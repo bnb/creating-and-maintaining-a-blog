@@ -13,7 +13,7 @@ If you really want to publish a lot, then it can be. But you're under no deadlin
 ### I don't know how to create a blog...
 Then let's find out!
 
-<!-- Post 2-0: Creating a blog on WordPress.com -->
+<!-- Post 2: Creating a blog on WordPress.com -->
 ## Creating a WordPress Blog with WordPress.com
 We're going to create a blog on WordPress.com. WordPress.com is the officially-branded WordPress host, where anyone can set up a WordPress blog for **free**.
 
@@ -35,23 +35,26 @@ Here's what you'll want to select to get your blog up, without needing to consid
 #### Publication
 **yoursite.wordpress.com**: When you've completed the setup wizard outlined above, you will be brought to a page that gives you several options of tasks you can do on your WordPress site. For our purposes, we're going to simply go to your blog - type in the address you chose in the "Let's find a domain" step (the `yourname.wordpress.com` one). In my case, I chose `creatingandmaintainingablog.wordpress.com`, so I'm heading there. From here on, I'll refer to your address on WordPress.com as "your blog".
 
-On your blog, you'll see a message along the lines of "Nothing found". You haven't written any blog posts yet, so there's nothing to display. When you want to write a
+On your blog, you'll see a message along the lines of "Nothing found". You haven't written any blog posts yet, so there's nothing to display. Let's get a bare-bones first post out right away so you can have at least some content on your site.
+
+##### Opening the Editor
+We've got your blog open right now - if you don't, go to the address of your blog in your browser. Once there, you should see a black bar at the top. If you don't, go to WordPress.com and sign in with the account you made in the setup wizard. Once you've signed into WordPress.com, visit your site again and you should see the black bar.
+
+On the right-hand side of the black bar, there is an icon of a pencil with a plus. Click this, and it will open the post editor. Write a title (I chose `Hey there, World!`, a play on the classic programming `Hello, World!` phrase), and a simple body that states your intent to write on and maintain your blog. Be sure to tell people to check back for more, and watch your social media accounts (Facebook, Twitter, and so on) for alerts of new content. Here's what I wrote:
+
+```
+I've just started this blog, and aim to start writing consistently on it. Keep an eye out for future posts here and on my social media accounts!
+```
 
 
-
-### DigitalOcean
-#### Creation
-#### Installation
-### Design and Authoring
-#### Picking a theme
-#### Opening the Editor
-
+<!-- Post 3: How -->
 ## Writing a Post
 ### Anatomy of a post
 ### Writing in the Editor
 ### Text formatting in the Editor
 ### Including images and videos
 
+<!-- Post 4: Maintaining and Continuing Content -->
 ## Continued Content
 ### Why continued content is important
 ### Habitual Writing
